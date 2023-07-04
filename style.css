@@ -1,0 +1,14 @@
+.p1{
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgba(29, 221, 29, 0.575);
+    border-radius: 18px;
+
+}
+#p2{
+    border:5px outset chartreuse;
+    border-radius: 25px;
+}
+body{
+    background-image: url(Img5.jpg); height: fit-content; background-position: center; background-size: cover; background-repeat: no-repeat;
+}
